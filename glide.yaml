@@ -1,0 +1,4 @@
+package: github.com/soofaloofa/nats-cli
+import:
+- package: github.com/nats-io/nats
+- package: github.com/urfave/cli
